@@ -1,5 +1,5 @@
 ---
-permalink: /BSBINS401-ICT40120
+permalink: /AISS-ICTSS00120
 
 ---
 
