@@ -1,3 +1,8 @@
+---
+permalink: /BSBINS401-ICT40120
+
+---
+
 # Welcome to the AI Skillset Course Materials
 
 ## Introduction

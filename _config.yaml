@@ -12,4 +12,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-github-metadata
+  - jekyll-optional-front-matter
+
 

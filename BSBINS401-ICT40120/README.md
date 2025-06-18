@@ -1,3 +1,6 @@
+---
+permalink: /BSBINS401-ICT40120
+---
 
 # Welcome to BSBINS401 - Analyse and Present Research Information
 

@@ -1,3 +1,9 @@
+---
+
+permalink: /
+
+---
+
 # NMTAFE Course Content Repository
 
 Welcome to the NMTAFE Course Content Repository! This repository houses all the course materials developed by Jordan Hill for various programs at NMTAFE. Each course is meticulously organized and hosted as a GitHub Page, ensuring easy access to resources, topics, assignments, and assessments.
