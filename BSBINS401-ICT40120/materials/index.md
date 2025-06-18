@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Course Materials for BSBINS401-ICT40120"
+permalink: /BSBINS401-ICT40120/materials/
+---
+
 # Course Materials for BSBINS401-ICT40120
 
 This directory contains guides and handouts for this course.

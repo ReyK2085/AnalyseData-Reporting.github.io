@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Slides for AISS-ICTSS00120"
+permalink: /AISS-ICTSS00120/slides/
+---
+
 # Slides for AISS-ICTSS00120
 
 This directory contains links to the course slides.

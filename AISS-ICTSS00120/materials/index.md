@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Course Materials for AISS-ICTSS00120"
+permalink: /AISS-ICTSS00120/materials/
+---
+
 # Course Materials for AISS-ICTSS00120
 
 This directory contains guides and handouts for this course.

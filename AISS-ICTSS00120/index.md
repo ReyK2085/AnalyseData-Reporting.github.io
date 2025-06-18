@@ -1,6 +1,7 @@
 ---
-permalink: /AISS-ICTSS00120
-
+layout: default
+title: "Welcome to the AI Skillset Course Materials"
+permalink: /AISS-ICTSS00120/
 ---
 
 # Welcome to the AI Skillset Course Materials

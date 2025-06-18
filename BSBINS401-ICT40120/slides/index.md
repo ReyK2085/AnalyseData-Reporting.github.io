@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Slides for BSBINS401-ICT40120"
+permalink: /BSBINS401-ICT40120/slides/
+---
+
 # Slides for BSBINS401-ICT40120
 
 This directory contains links to the course slides.

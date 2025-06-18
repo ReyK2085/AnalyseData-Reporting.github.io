@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Notebooks for AISS-ICTSS00120"
+permalink: /AISS-ICTSS00120/notebooks/
+---
+
 # Notebooks for AISS-ICTSS00120
 
 This directory contains links to Jupyter notebooks used in this course.

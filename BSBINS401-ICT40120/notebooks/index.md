@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Notebooks for BSBINS401-ICT40120"
+permalink: /BSBINS401-ICT40120/notebooks/
+---
+
 # Notebooks for BSBINS401-ICT40120
 
 This directory contains links to Jupyter notebooks used in this course.

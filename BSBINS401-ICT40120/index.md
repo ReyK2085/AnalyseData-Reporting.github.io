@@ -1,6 +1,9 @@
 ---
-permalink: /BSBINS401-ICT40120
+layout: default
+title: "Welcome to BSBINS401 - Analyse and Present Research Information"
+permalink: /BSBINS401-ICT40120/
 ---
+
 
 # Welcome to BSBINS401 - Analyse and Present Research Information
 
