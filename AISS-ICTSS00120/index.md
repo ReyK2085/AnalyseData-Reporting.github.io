@@ -12,10 +12,23 @@ Welcome to the AI Skillset course!
 
 We're thrilled to have you join us on this exciting journey into the world of Artificial Intelligence. This course is designed to provide you with a comprehensive understanding of AI, from the fundamental principles to cutting-edge technologies. Whether you're a novice or have some experience in AI, this course will help you enhance your skills and prepare you for the evolving landscape of AI applications.
 
+
+## Course Materials
+
+### Slides
+View the course slides in the [slides directory](slides/).
+
+### Notebooks
+Access the course notebooks in the [notebooks directory](notebooks/).
+
+### Guides and Handouts
+Find course guides and handouts in the [materials directory](materials/).
+
+
 ## Learning Plan
 
 
-##### Week 1: Introduction to AI, ML, and DL
+### Week 1: Introduction to AI, ML, and DL
 -	Overview and history of AI, ML, and DL.
 -	Key features and functions of AI technologies.
 -	Functions and features of industry-recognised AI, ML and DL technologies used in organisations.
@@ -25,7 +38,7 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
   *In-class Research Activity*: Industry technologies in AI, ML, & DL; Supervised and Unsupervised learning examples. Pair and Share.
 
 
-##### Week 2: Data for Machine Learning
+### Week 2: Data for Machine Learning
 -	Introduction to IPython Environment and Kaggle.
 - Identifying key data sources for machine learning
 -	Types of data: Structured, Unstructured, Labelled, and Unlabelled.
@@ -45,7 +58,7 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
 *In-class Activity*: Find and load a dataset into Kaggle. Evaluate its usefulness for Machine Learning. Visualise the dataset and perform initial exploratory data analysis.
 
 
-##### Week 3: Essentials of ML and DL Technologies 
+### Week 3: Essentials of ML and DL Technologies 
 - Introduction to sci-kit learn package
 -	Understanding ML: Supervised vs. Unsupervised Learning 
 -	Introduction to DL and its place within AI
@@ -63,7 +76,7 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
 *Lab activity*: Apply Linear regression to a dataset using Ordinary Least Squares, in scikit learn.
 
 
-##### Week 4: Data Bias and Ethics in AI
+### Week 4: Data Bias and Ethics in AI
 -	Recognising biased vs. unbiased datasets
 - Implementation Risks
 -	Ethics in AI, including Australia’s AI Ethics Framework
@@ -74,7 +87,7 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
   - **"Robbie" by Isaac Asimov** (1940)
   - **"The Moon is a Harsh Mistress" by Robert A. Heinlein** (1966) (Chapter 1)
 
-##### Week 5: Identify an Opportunity for Task Automation 
+### Week 5: Identify an Opportunity for Task Automation 
 -	Establishing organisational AI, ML and DL objectives
 -	Identifying existing organisational AI technologies and processes
 -	Identifying common tasks/processes for automation 
@@ -86,7 +99,7 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
 **Assessment 1 Start**
 
 
-##### Week 6: Evaluating ML Opportunities 
+### Week 6: Evaluating ML Opportunities 
 -	Identifying and documenting ML opportunities 
 -	Evaluation and comparison of AI, ML, and DL technologies
 -	Key advantages and disadvantages of AI, ML and DL technologies
@@ -95,13 +108,13 @@ We're thrilled to have you join us on this exciting journey into the world of Ar
 
 *Students to Complete Task 2 & 3 & 4 of Assessment 1 in class*
 
-##### Week 7: Student Presentation Week — Assessment 1
+### Week 7: Student Presentation Week — Assessment 1
 
 **Assessment 1 Due**
 
 *Perform a 5 to 10-minute pitch on a particular opportunity for Automation in AI.*
 
-##### Week 8: Optimization & Evaluation
+### Week 8: Optimization & Evaluation
 
 - Hyper Parameters, What are they?
 - Model Output Evaluation Methods
@@ -120,7 +133,7 @@ Preview for next session (Main Concepts):
 
 *Lab: Let’s apply grid search to optimize an email spam filter.*
 
-##### Week 9: Deep Learning Foundations 
+### Week 9: Deep Learning Foundations 
 -	Introduction to Neural Networks
 -	What are ‘hidden layers’?
 -	How can we teach machines to think good?
@@ -138,7 +151,7 @@ Preview for next session (Main Concepts):
 
 **Let's look at the KBA (Assessment 2 KBA)**
 
-##### Week 10: Fundamentals in Deep Learning & Introduction to Machine Vision
+### Week 10: Fundamentals in Deep Learning & Introduction to Machine Vision
 - Linear algebra for ML — scalars, vectors, and tensors
 - Computing Tensors, GPU vs CPU
 - Feature Engineering and Data Preprocessing Techniques for Deep Learning
@@ -150,7 +163,7 @@ Preview for next session (Main Concepts):
 
 *Term Break*
 
-##### Week 11: Applying AI/ML and Data Science Methodologies
+### Week 11: Applying AI/ML and Data Science Methodologies
   -	Understanding CRISP-DM methodology and software development for ML.
   - Cross-Industry Standard Process for Data Mining (CRISP-DM)
   - Applying Organizational Policies and Procedures to AI
@@ -159,35 +172,35 @@ Preview for next session (Main Concepts):
 
 *Let’s build: A card classifier using pytorch.*
 
-##### Week 12: Transformers and Embeddings
+### Week 12: Transformers and Embeddings
 -	Attention is all you need!
 - Intro to Huggingface
 
 *Code Investigation: card classifier what does ReLU do?*
 
-##### Week 13: Intro to Language Models — Small Text Models
+### Week 13: Intro to Language Models — Small Text Models
   -	Who is LoRA?
   - Fine-tuning Large Language Models
   - Model sizes & related challenges
 
-##### Week 14: On the horizon: ViT — Applying Transformers to vision
+### Week 14: On the horizon: ViT — Applying Transformers to vision
   - Applying transformer architecture to multi-modal problems
 
-##### Week 15: Practical - Begin Project Assessment 
+### Week 15: Practical - Begin Project Assessment 
   -	Starting the final project: data sourcing and initial model design.
 
-##### Week 16: Practical - Continue Project Assessment 
+### Week 16: Practical - Continue Project Assessment 
   -	Model training and testing. 
 
-##### Week 17: Practical - Continue Project Assessment 
+### Week 17: Practical - Continue Project Assessment 
   -	Model evaluation and tuning.
 
-##### Week 18: Practical - Finalize Project Assessment 
+### Week 18: Practical - Finalize Project Assessment 
   -	Final adjustments to the model and prepare a white paper 
 
-##### Week 19: Non Contact Assessment Feedback Week 
+### Week 19: Non Contact Assessment Feedback Week 
 
-##### Week 20: Resubmission Period 
+### Week 20: Resubmission Period 
 
 
 ## What You'll Learn
@@ -225,16 +238,3 @@ Preview for next session (Main Concepts):
 
 For any questions or concerns, please reach out to us:
 - **Email**: jordan.hill@nmtafe.wa.edu.au
-- **Office Hours**: By Appointment
-## Course Materials
-
-### Slides
-View the course slides in the [slides directory](slides/).
-
-### Notebooks
-Access the course notebooks in the [notebooks directory](notebooks/).
-
-### Guides and Handouts
-Find course guides and handouts in the [materials directory](materials/).
-
-

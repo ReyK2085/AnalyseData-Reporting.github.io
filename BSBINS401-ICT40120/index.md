@@ -11,6 +11,19 @@ permalink: /BSBINS401-ICT40120/
 
 Welcome to the **BSBINS401 - Analyse and Present Research Information** unit at North Metropolitan TAFE! This course is designed to introduce you to data visualization tools and techniques using Python. Throughout this unit, you will develop the skills to analyze research information and present your findings effectively.
 
+
+## Course Materials
+
+### Slides
+View the course slides in the [slides directory](slides/).
+
+### Notebooks
+Access the course notebooks in the [notebooks directory](notebooks/).
+
+### Guides and Handouts
+Find course guides and handouts in the [materials directory](materials/).
+
+
 ## Course Overview
 
 In this unit, you will:
@@ -60,38 +73,6 @@ The course concludes with **Assessment 3**: an **In-Class Open Book Exam** in We
 - **Assessment 3**: In-Class Open Book Exam
   - **Description**: An open book exam assessing your understanding of research principles, data analysis techniques, and presentation skills.
   - **Date**: Week 17
-
-## Course Materials
-
-### Slides
-- **Week 1 Slides**: [Session 1: Introduction to the Course and Data Science](week_1.html)
-- **Week 2 Slides**: [Session 2: Data Visualization Basics and Tools Overview](week_2.html)
-- **Week 3 Slides**: [Session 3: Getting Started with Kaggle and Data Visualization](week_3.html)
-- **Week 4 Slides**: [Session 4: Exploring the Standard Dataset](week_4.html)
-- **Week 5 Slides**: [Session 5: Advanced Exploratory Data Analysis & Report Preparation](week_5.html)
-- **Week 6 Slides**: [Session 6: Report Writing & Effective Visuals](week_6.html)
-- **Week 8 Slides**: [Session 8: Introducing More Advanced Data Analysis Techniques](week_8.html)
-- **Week 9 Slides**: [Session 9: Introducing Independent Research Projects](week_9.html)
-
-### Handouts
-- **Week 4 Handout**: [Week 4 Handout](handouts/week_4.html)
-- **Week 6 Activity**: [Peer Discussion on Findings](handouts/week_6_activity.md)
-- **Week 6 Workshop**: [Structuring Your Report](handouts/week_6_workshop.md)
-
-### Guides
-
-#### Session 9
-- [Scoping a Research Project](guides/scoping-a-research-project.md)
-- [Research Project proposal Template](guides/research-project-proposal-template.md)
-- [Data Source Evaluation Checklist](guides/data-source-evaluation-checklist)
-
-
-### Activities
-
-#### Session 9
-- [Brainstorming Activity Sheet](activities/brainstorming.md) - For planning your research project
-- [Data Source Evaluation Activity](activities/data-sources.md) - Guide to critically assess potential datasets
-
 
 
 ### Learning Resources
@@ -150,16 +131,3 @@ Please feel free to reach out with any questions or concerns.
 We look forward to an exciting semester exploring the world of data visualization and research analysis with you!
 
 ---
-
-## Course Materials
-
-### Slides
-View the course slides in the [slides directory](slides/).
-
-### Notebooks
-Access the course notebooks in the [notebooks directory](notebooks/).
-
-### Guides and Handouts
-Find course guides and handouts in the [materials directory](materials/).
-
-

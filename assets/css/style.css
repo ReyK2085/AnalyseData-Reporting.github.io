@@ -1,0 +1,175 @@
+/* Basic styling for course content site */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+header h1 a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.8rem;
+}
+
+header h1 a:hover {
+    color: #dee2e6;
+}
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    min-height: calc(100vh - 200px);
+}
+
+main>h1:first-child {
+    padding: 2rem 2rem 1rem;
+    margin: 0;
+    border-bottom: 1px solid #dee2e6;
+    color: #495057;
+}
+
+main>*:not(h1:first-child) {
+    padding: 0 2rem;
+}
+
+main>*:last-child {
+    padding-bottom: 2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 1.5rem 0 1rem;
+    color: #495057;
+}
+
+h2 {
+    color: #007bff;
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 0.5rem;
+}
+
+h3 {
+    color: #6c757d;
+}
+
+ul,
+ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+ul {
+    padding-left: 1em;
+}
+
+li {
+    margin: 0.5rem 4rem;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+p {
+    margin: 1rem 0;
+}
+
+footer {
+    background-color: #6c757d;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+
+    header nav,
+    main {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    main>h1:first-child {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    main>*:not(h1:first-child) {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+/* Course navigation styling */
+.course-nav {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 1rem;
+    margin: 2rem 0;
+}
+
+.course-nav h3 {
+    margin-top: 0;
+    color: #495057;
+}
+
+.course-nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.course-nav ul li {
+    padding: 0.25rem 0;
+}
+
+.course-nav ul li a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.course-nav ul li a:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+}
