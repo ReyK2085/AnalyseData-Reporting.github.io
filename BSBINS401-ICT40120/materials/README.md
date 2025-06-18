@@ -2,111 +2,111 @@
 
 This directory contains guides and handouts for this course.
 
-## week 1
+## Week 1
 
-### activity instructions
-- [View Material](week%201/activity%20instructions.md)
-
-
-### beginner-friendly introduction to jupyter notebooks
-- [View Material](week%201/beginner-friendly%20introduction%20to%20jupyter%20notebooks.md)
-
-## week 2
-
-### week 2 demo: introduction to matplotlib with numpy
-- [View Material](week%202/week%202%20demo:%20introduction%20to%20matplotlib%20with%20numpy.md)
-
-## week 3
-
-### working with matplotlib and seaborn
-- [View Material](week%203/working%20with%20matplotlib%20and%20seaborn.md)
-
-## week 4
-
-### handout: formulating your research question
-- [View Material](week%204/handout:%20formulating%20your%20research%20question.md)
+### Activity Instructions
+- [View Material](week-1/handout.md)
 
 
-### week 4: plotting multiple groups in complex data
-- [View Material](week%204/week%204:%20plotting%20multiple%20groups%20in%20complex%20data.md)
+### Beginner-Friendly Introduction to Jupyter Notebooks
+- [View Material](week-1/demo.md)
 
-## week 5
+## Week 2
 
-### week 5: applying data analysis and visualization to uncover insights
-- [View Material](week%205/week%205:%20applying%20data%20analysis%20and%20visualization%20to%20uncover%20insights.md)
+### Week 2 Demo: Introduction to Matplotlib with NumPy
+- [View Material](week-2/demo.md)
 
-## week 6
+## Week 3
 
-### activity: peer discussion on findings
-- [View Material](week%206/activity:%20peer%20discussion%20on%20findings.md)
+### Working with Matplotlib and Seaborn
+- [View Material](week-3/demo.md)
+
+## Week 4
+
+### Handout: Formulating Your Research Question
+- [View Material](week-4/handout.md)
 
 
-### week 6: writing effective articles and reports with markdown
-- [View Material](week%206/week%206:%20writing%20effective%20articles%20and%20reports%20with%20markdown.md)
+### Week 4: Plotting Multiple Groups in Complex Data
+- [View Material](week-4/demo.md)
+
+## Week 5
+
+### Week 5: Applying Data Analysis and Visualization to Uncover Insights
+- [View Material](week-5/demo.md)
+
+## Week 6
+
+### Activity: Peer Discussion on Findings
+- [View Material](week-6/activity.md)
 
 
-### workshop handout: structuring your assessment 1 report
-- [View Material](week%206/workshop%20handout:%20structuring%20your%20assessment%201%20report.md)
+### Week 6: Writing Effective Articles and Reports with Markdown
+- [View Material](week-6/demo.md)
+
+
+### Workshop Handout: Structuring Your Assessment 1 Report
+- [View Material](week-6/workshop.md)
 
 
 ### ---
-- [View Material](week%206/---.md)
+- [View Material](week-6/report-writing-basics.md)
 
-## week 7
+## Week 7
 
-### student presentations - week 7
-- [View Material](week%207/student%20presentations%20-%20week%207.md)
+### Student Presentations - Week 7
+- [View Material](week-7/presentations.md)
 
-## week 8
+## Week 8
 
-### advanced statistical methods: companion demo
-- [View Material](week%208/advanced%20statistical%20methods:%20companion%20demo.md)
+### Advanced Statistical Methods: Companion Demo
+- [View Material](week-8/demo.md)
 
-## week 9
+## Week 9
 
-### week 9: getting started with numpy – fundamentals for data manipulation
-- [View Material](week%209/week%209:%20getting%20started%20with%20numpy%20–%20fundamentals%20for%20data%20manipulation.md)
+### Week 9: Getting Started with NumPy – Fundamentals for Data Manipulation
+- [View Material](week-9/demo.md)
 
-## week 9/activities
+## Week 9/activities
 
-### brainstorming activity sheet
-- [View Material](week%209/activities/brainstorming%20activity%20sheet.md)
-
-
-### data source evaluation activity sheet
-- [View Material](week%209/activities/data%20source%20evaluation%20activity%20sheet.md)
-
-## week 9/guides
-
-### data source evaluation checklist
-- [View Material](week%209/guides/data%20source%20evaluation%20checklist.md)
+### BRAINSTORMING ACTIVITY SHEET
+- [View Material](week-9activities/brainstorming.md)
 
 
-### guide to scoping a research project
-- [View Material](week%209/guides/guide%20to%20scoping%20a%20research%20project.md)
+### DATA SOURCE EVALUATION ACTIVITY SHEET
+- [View Material](week-9activities/data-sources.md)
+
+## Week 9/guides
+
+### DATA SOURCE EVALUATION CHECKLIST
+- [View Material](week-9guides/data-source-evaluation-checklist.md)
 
 
-### research project proposal template
-- [View Material](week%209/guides/research%20project%20proposal%20template.md)
+### Guide to Scoping a Research Project
+- [View Material](week-9guides/scoping-a-research-project.md)
 
-## week 10
 
-### week 10: introduction to pandas – data manipulation and analysis
-- [View Material](week%2010/week%2010:%20introduction%20to%20pandas%20–%20data%20manipulation%20and%20analysis.md)
+### Research Project Proposal Template
+- [View Material](week-9guides/research-project-proposal-template.md)
 
-## week 11
+## Week 10
 
-### week 11: deep dive into pandas — advanced data transformations & explorations
-- [View Material](week%2011/week%2011:%20deep%20dive%20into%20pandas%20—%20advanced%20data%20transformations%20&%20explorations.md)
+### Week 10: Introduction to Pandas – Data Manipulation and Analysis
+- [View Material](week-10/demo.md)
 
-## week 12
+## Week 11
 
-### week 12: combining data with pandas — concat, merge, and joins
-- [View Material](week%2012/week%2012:%20combining%20data%20with%20pandas%20—%20concat,%20merge,%20and%20joins.md)
+### Week 11: Deep Dive into pandas — Advanced Data Transformations & Explorations
+- [View Material](week-11/demo.md)
 
-## week 13
+## Week 12
 
-### week 13: mastering tidy data – practical transformations for real-world datasets
-- [View Material](week%2013/week%2013:%20mastering%20tidy%20data%20–%20practical%20transformations%20for%20real-world%20datasets.md)
+### Week 12: Combining Data with pandas — concat, merge, and Joins
+- [View Material](week-12/demo.md)
+
+## Week 13
+
+### Week 13: Mastering Tidy Data – Practical Transformations for Real-World Datasets
+- [View Material](week-13/demo.md)
 
 
