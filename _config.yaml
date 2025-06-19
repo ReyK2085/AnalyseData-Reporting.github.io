@@ -16,5 +16,3 @@ plugins:
   - jekyll-default-layout
 include:
   - README.md
-  - AISS-ICTSS00120/*
-  - BSBINS401-ICT40120/*
