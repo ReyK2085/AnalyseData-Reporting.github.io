@@ -8,11 +8,23 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# Sass configuration to suppress deprecation warnings
+sass:
+  quiet_deps: true
+  verbose: false
+  style: compressed
+  sourcemap: never
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-optional-front-matter
-  - jekyll-github-metadata
   - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 include:
-  - README.md
+  - README.md 
