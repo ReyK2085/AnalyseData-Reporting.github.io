@@ -1,6 +1,8 @@
 ---
 
-layout: page
+permalink: /
+layout: default
+title: NMTAFE Course Content Repository
 
 ---
 

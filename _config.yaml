@@ -16,6 +16,8 @@ sass:
   style: compressed
   sourcemap: never
 
+repository: jordanhill-NMTAFE/jordanhill-NMTAFE.github.io
+
 plugins:
   - jekyll-remote-theme
   - jekyll-readme-index
@@ -26,5 +28,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-github-metadata
 include:
   - README.md 
